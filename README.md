@@ -28,7 +28,10 @@ A análise da cesta de compras forneceu insights valiosos sobre o comportamento 
 
 ## Estrutura do Projeto
 
-- **data/**: Contém os arquivos de dados utilizados no projeto.
+- **Base de dados**: https://www.kaggle.com/c/instacart-market-basket-analysis/data
+  Você deve criar sua conta no Kaggle e fazer o download de todos os arquivos. Descompacte os
+  arquivos e coloque na pasta onde estiver o Notebook.
+  Este artigo explica em detalhes como os dados foram gerados: https://tech.instacart.com/3-million-instacart-orders-open-sourced-d40d29ead6f2
 - **Notebook** com o código de análise e visualização.
 
 ## Utilização
